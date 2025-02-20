@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUI3MediaPlayerElementSnapshotSample (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUI3MediaPlayerElementSnapshotSample (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
